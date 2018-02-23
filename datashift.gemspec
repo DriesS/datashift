@@ -17,8 +17,6 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   
-  s.test_files = FileList["{spec}/*"]
-  
   s.files = FileList[
     "LICENSE.txt",
     "README.markdown",
